@@ -1,6 +1,6 @@
-# Ninh-Anh-T-
+# Anh-T-
 My Page
-# 👨‍💻 Ninh Anh Tú
+# 👨‍💻 Anh Tú
 
 ## 🚀 Tech Stack
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
@@ -10,14 +10,14 @@ My Page
 ---
 
 ## 📊 GitHub Stats
-![AnhTu's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Thaibinh2005&show_icons=true&theme=radical)
+![AnhTu's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AnhTu1704&show_icons=true&theme=radical)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Thaibinh2005&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AnhTu1704&layout=compact&theme=radical)
 
 ---
 
 ## 🔥 Contribution Streak
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Thaibinh2005&theme=radical)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AnhTu1704&theme=radical)
 
 ---
 
